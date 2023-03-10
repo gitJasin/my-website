@@ -1,0 +1,21 @@
+body {
+    background: lightgreen;
+}
+
+h1 {
+    text-align: center;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+    margin: auto;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
