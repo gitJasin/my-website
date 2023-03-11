@@ -2,12 +2,7 @@ body {
     background: lightgreen;
 }
 
-h1 {
-    text-align: center;
-    margin: auto;
-}
-
-p {
+h1, p {
     text-align: center;
     margin: auto;
 }
